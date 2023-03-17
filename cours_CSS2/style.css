@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Manrope:wght@500&family=Montserrat&family=Press+Start+2P&display=swap");
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: url(images/BG.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+H1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Press Start 2P", sans-serif;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+}
+H2 {
+  background: linear-gradient(blue, white);
+  border-radius: 20px 0 20px 0;
+}
+ol,p{
+  background: rgba(255, 255, 255, 0.5);
+}
+a {
+  color: black;
+}
+em {
+  color: #168314d6;
+}
